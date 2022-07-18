@@ -1,0 +1,13 @@
+[
+  {
+    "modid": "AcidSkider",
+    "name": "NiggerClient",
+    "description": "Eclips ready By SuChen",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "suchen",
+    "authorList": [
+      "SuChen"
+    ]
+  }
+]
